@@ -1,2 +1,5 @@
-# .github
-Public github profile for Coolmogo
+# Coolmogo
+
+Welcome to the official GitHub profile for **Coolmogo**.
+
+🌐 Website: https://www.coolmogo.com
